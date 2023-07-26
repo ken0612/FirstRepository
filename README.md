@@ -7,3 +7,4 @@ This is the test of trying to create a Repository.
 ## terminal command
 git remote set-url origin https:// **username:token@** github.com/ken0612/FirstRepository.git
 
+## 第一次寫Vue！
